@@ -1,0 +1,2 @@
+Id	Proveedor	Fecha de alta	Id Cliente
+3	Redbull	15-02-2001		6
